@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Flashlight</string>
+    <string name="enter_your_word">Enter your word.</string>
+    <string name="ok">OK</string>
+    <string name="nic">Nic</string>
+    <string name="your_word_will_be_translated_into_morse_code">Your word will be translated into Morse Code.</string>
+    <string name="camera_enable">Camera Enabled</string>
+</resources>
